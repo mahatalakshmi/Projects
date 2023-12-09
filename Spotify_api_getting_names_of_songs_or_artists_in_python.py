@@ -57,7 +57,7 @@ def play():
         else:
             print("Enter valid choice.")
 get_articst(token,"BTS")
-grt_play(token,"5IB47AB5OOgngbfgrtmYZB?si=d6f4e69b8dd94a41")
+grt_play(token,"Your_Playlist_ID")
 play()
 
 
