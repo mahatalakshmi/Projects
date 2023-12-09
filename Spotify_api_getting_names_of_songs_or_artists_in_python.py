@@ -2,9 +2,9 @@ import json
 import spotipy 
 from requests import get
 import webbrowser
-username = 'fire'
-clientID = '1219e432a1a4477e8dd70206eb5e0f5a'
-clientSecret = '73f8fa6a79b846afaaa2d1a1ff24a2e2'
+username = 'your_username'
+clientID = 'your_client_ID'
+clientSecret = 'Your_client_secret'
 redirect_uri = 'http://google.com/callback/'
 
 oauth_object = spotipy.SpotifyOAuth(clientID, clientSecret, redirect_uri) 
