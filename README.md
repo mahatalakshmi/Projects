@@ -1,3 +1,3 @@
 # Projects
-All the projects that i have done 
+Python projects related to chatbot
 
